@@ -21,6 +21,8 @@ print """
  +                                                          +
  +                  Thanks To Sucuri Labs :)                +
  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+ For Inject https://blog.sucuri.net/2017/02/content-injection-vulnerability-wordpress-rest-api.html
       """
 
 # Enter your URL
