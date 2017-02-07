@@ -16,4 +16,4 @@ Alternatively, you can grab the latest source code from `GitHub <https://github.
 
 
 
-Hope you
+Hope it will help you ;)
